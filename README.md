@@ -13,8 +13,5 @@ Clarifai - This is an AI powered API that helps with everything detection. My us
 KNEXJS - For connecting to my Database(postgres)
 
 
-> Major shoutout to [Mr Andrei Aneagoie](https://github.com/aneagoie) for the excellent course
->
-> Also, big thanks to [FATTKAY](https://twitter.com/fattkay?lang=en) for gifting me with this course
 
 ### Note: you'd need to get your api key from [here](https://www.clarifai.com/) to run this, thanks!
